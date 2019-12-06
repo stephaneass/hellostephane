@@ -1,0 +1,22 @@
+{
+    "name": "stephaneass/stephanehello;",
+    "description": "My first packagist package",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Stephane Assocle",
+            "email": "mensste30@gmail.com",
+            "homepage": "payplus.affica"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "stephaneass\\stephanehello\\": "src/"
+        }
+    }
+}
