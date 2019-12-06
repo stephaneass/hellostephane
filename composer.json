@@ -13,7 +13,7 @@
             "homepage": "https://github.com/stephaneass/hellostephane"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "stephaneass\\stephanehello\\": "src/"
